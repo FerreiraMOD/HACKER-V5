@@ -76,7 +76,7 @@ const Landing: React.FC = () => {
       </section>
 
       <footer className="p-8 text-center text-gray-600 border-t border-white/5 text-[10px] uppercase tracking-widest font-bold">
-        H4CK3R F-A v2.0 &copy; 2024 - Todos os direitos reservados.
+        H4CK3R F-A v4.0 &copy; 2026 - Todos os direitos reservados.
       </footer>
     </div>
   );
