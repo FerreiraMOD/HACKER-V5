@@ -1,0 +1,7 @@
+{
+  "name": "H4CK3R F-A v2.0",
+  "description": "High-precision gambling prediction suite with AI-driven signals for Mines and Crash games.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
